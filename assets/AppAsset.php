@@ -8,7 +8,7 @@
 namespace app\assets;
 
 use yii\web\AssetBundle;
-echo '1231123123123ngf1';
+echo '1231123123123ngffd1';
 /**
  * @author Qiang Xue <qiang.xue@gmail.com>
  * @since 2.0
