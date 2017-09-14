@@ -8,7 +8,7 @@
 namespace app\assets;
 
 use yii\web\AssetBundle;
-echo 'fgd';
+echo 'fgdgfdh';
 /**
  * @author Qiang Xue <qiang.xue@gmail.com>
  * @since 2.0
